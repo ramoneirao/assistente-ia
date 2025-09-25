@@ -1,12 +1,5 @@
-# Estudo de Caso 1 - DSA AI Coder - Criando Seu Assistente de Programação Python, em Python
-
-# Importa módulo para interagir com o sistema operacional
 import os
-
-# Importa a biblioteca Streamlit para criar a interface web interativa
 import streamlit as st
-
-# Importa a classe Groq para se conectar à API da plataforma Groq e acessar o LLM
 from groq import Groq
 
 # Configura a página do Streamlit com título, ícone, layout e estado inicial da sidebar
