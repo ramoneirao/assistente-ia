@@ -2,6 +2,8 @@
 
 Um assistente de inteligência artificial especializado em programação Python, desenvolvido com Streamlit e integrado à API da Groq para fornecer respostas precisas e didáticas sobre desenvolvimento, principalmente sobre a linguagem python.
 
+![Interfasce da aplicação](./images/interface.png)
+
 ## Sobre o Projeto
 
 Este projeto é um assistente de IA focado em auxiliar desenvolvedores iniciantes com dúvidas de programação Python. O assistente fornece:
@@ -85,6 +87,9 @@ streamlit run assistente_ia.py
    - Exemplo de código comentado
    - Explicação detalhada
    - Links para documentação oficial
+
+**Como a resposta é retornada**
+![Exemplo de Uso](./images/resposta.png)
 
 ## Aprendizados do Projeto
 
